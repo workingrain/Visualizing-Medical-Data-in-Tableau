@@ -1,1 +1,24 @@
 # Visualizing-Medical-Data-in-Tableau
+
+#### DASHBOARD ALIGNMENT
+Based on the needs outlined to address the readmission problem in hospitals and provide a tool for executive leaders to understand key metrics related to readmission rates, here is how each dashboard aligns with the identified needs.
+Firstly, the dashboard with Readmission Status by Complication Risk aims to analyze the readmission status of patients based on their complication risk level. It helps understand the relationship between complication risk and the likelihood of readmission. Another dashboard with service utilization in percentage helps in understanding the utilization of different services provided to patients, which can indirectly impact readmission rates. Furthermore, the dashboard with the leading cause of death and mortality trends provides insights into mortality trends and leading causes of death and indicators of potential readmission factors. Lastly, the dashboard with the geographic distribution of death counts offers a geographic perspective on the mortality rate, allowing for identifying regions with a higher readmission rate. 
+#### ADDITIONAL DATA SET INSIGHTS
+The additional data set has five variables that enhance the insights from the provided data sets. 
+1.	Year – this variable allows for temporal analysis, enabling the examination of trends and changes in various factors over time, such as mortality rates and disease prevalence.
+2.	Cause Name – this variable provides detailed information on the specific causes of death, enabling a more granular analysis of mortality patterns and identifying leading causes of death with readmission risks.
+3.	State – this variable facilitates geographic analysis, identifying regional variation in readmission rates, mortality rates, and disease prevalence.
+4.	Deaths – this variable quantifies the number of deaths attributed to each cause, state, or year, providing a measure of severity and impact associated with different factors.
+5.	Age-adjusted Death Rate – this variable provides a standardized measure of mortality that accounts for differences in age distributions. It allows for comparison of mortality rates between different groups or over time.
+These additional variables complement the provided data set by providing more comprehensive insights into mortality patterns, disease prevalence, and geographic variations. 
+#### DECISION-MAKING SUPPORT
+In the dashboard with the readmission status by complication risk, executive leaders can first explore how different complication risk levels (low, medium, high) correlate with readmission status. By identifying distribution, leaders can prioritize interventions and allocate resources to mitigate readmission risks for patients with specific complication profiles.  
+In the dashboard with the leading cause of death and mortality trends, executive leaders can use this dashboard to identify common causes of death and mortality trends over time. Hospitals can develop targeted interventions to reduce readmission associated with these conditions by understanding the underlying health conditions contributing to mortality. 
+
+#### ACCESSIBILITY FOR INDIVIDUALS WITH COLOR BLINDNESS
+Building a dashboard accessible to individuals with color blindness involves utilizing color palettes designed explicitly for color blindness, such as Tableau’s Color Blind palette. Ensuring sufficient contrast between background and foreground elements is also essential to improve readability. Additionally, adjust the brightness or intensity of colors to enhance visibility. 
+#### DATA REPRESENTATIONS
+The 2 data representations in the presentation that support my analysis of the organization’s need to prioritize initiatives aimed at prevention, early detection, and effective management of cardiovascular conditions are the Prevalent Medical Conditions visualization and Leading Causes of Death visualization.
+Firstly, the Prevalent Medical Conditions visualization highlights the prevalence of cardiovascular such as overweight, high blood and diabetes within the patient population. By showcasing the high prevalence of these conditions, the organization can emphasize the urgent need to address cardiovascular health. Additionally, this visualization can underscore the importance of early detection and management of these risk factors to mitigate the development of cardiovascular diseases. 
+Another visualization is the Leading Cause of Death. This visualization identified heart disease as the leading cause of death within the patient population. By highlighting heart disease as a significant contributor to mortality, the organization can emphasize the critical need to prioritize initiatives aimed at the effective management or prevention of cardiovascular diseases. This visualization can serve as a call to action that prompts the organization to allocate resources to address cardiovascular disease.
+
